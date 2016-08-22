@@ -1,0 +1,13 @@
+{
+    "name": "example",
+    "description": "This is a small example box from https://dl.dropboxusercontent.com/s/cd9cfhrmraif1op/Snappy.box",
+    "versions": [{
+        "version": "0.0.1",
+        "providers": [{
+            "name": "virtualbox",
+            "url": "http://192.168.99.100/vagrant/example/boxes/Snappy_0.0.1.box",
+            "checksum_type": "sha1",
+            "checksum": "16f38cb939da0aac06e33202da66277ff2a2704c"
+        }]
+    }]
+}
